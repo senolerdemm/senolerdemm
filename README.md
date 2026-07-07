@@ -71,6 +71,31 @@
       <a href="https://github.com/senolerdemm/BookApi">Open repository →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Skinica <sup>private</sup></h3>
+      <p>AI-assisted skin analysis app with Flutter, Supabase, Gemini and a polished mobile product flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter" />
+        <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase" />
+        <img src="https://img.shields.io/badge/Gemini-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Riverpod-0891B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Edge%20Functions-111827?style=flat-square" />
+      </p>
+      <em>Private repository — demo/access on request.</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎫 ebilet <sup>private</sup></h3>
+      <p>Telegram automation that tracks TCDD train availability for selected routes, dates and cabin classes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Telegram%20Bot-0891B2?style=flat-square&logo=telegram" />
+        <img src="https://img.shields.io/badge/Playwright-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-111827?style=flat-square" />
+      </p>
+      <em>Private repository — built for practical monitoring, not scraping chaos.</em>
+    </td>
+  </tr>
 </table>
 
 ## More builds worth opening
@@ -80,6 +105,16 @@
 | [BarberAppointmentSystem](https://github.com/senolerdemm/BarberAppointmentSystem) | Appointment and scheduling flow for a real business use case | C# · Full-stack · Scheduling |
 | [YksQuest](https://github.com/senolerdemm/YksQuest) | Gamified study app with XP, streaks, ranks and timed questions | Flutter · Dart · Mobile UI |
 | [Credit-Card-Fraud-Detection](https://github.com/senolerdemm/Credit-Card-Fraud-Detection) | Machine-learning exploration around fraud detection | Jupyter · ML · Data analysis |
+
+## Private lab
+
+| Project | What it shows | Stack |
+|---|---|---|
+| Skinica | AI mobile product, auth/profile flows, routines, scan results and Supabase-backed data model | Flutter · Supabase · Gemini · Riverpod |
+| ebilet | Real-world automation with Telegram UX, route/date selection and availability notifications | Python · Telegram Bot · Playwright |
+| MovieApiOnionArchitecture | Backend architecture practice with separation of concerns and maintainable API layering | C# · Onion Architecture |
+| EstechEngineers | Hackathon-style data product around city/environment tooling | TypeScript · React · Data |
+| cvmaker | Document/productivity app experiment for creating structured CVs | JavaScript · Web UI |
 
 ---
 
