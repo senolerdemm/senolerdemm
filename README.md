@@ -1,135 +1,137 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Şenol Erdem — Full-Stack Developer, AI Builder and Mobile Explorer" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/senolerdemm">
-    <img src="https://komarev.com/ghpvc/?username=senolerdemm&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/senolerdemm?tab=followers">
-    <img src="https://img.shields.io/github/followers/senolerdemm?label=FOLLOWERS&style=for-the-badge&color=0891b2&labelColor=111827" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/senolerdemm?tab=repositories">
-    <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-c026d3?style=for-the-badge&labelColor=111827" alt="Open to collaboration" />
-  </a>
-</div>
-
-## About me
-
-I am a software developer from Türkiye who enjoys turning ideas into useful, end-to-end products. My work spans **AI-powered applications**, **scalable backend systems**, **modern web interfaces**, and **cross-platform mobile experiences**.
-
-- Building intelligent products with retrieval, semantic search, and modern language-model tooling
-- Designing clean APIs and maintainable backend architectures with .NET and Python
-- Creating interactive web and mobile experiences with React and Flutter
-- Interested in product engineering, data-driven systems, and solving real-world problems
-
-## Tech stack
-
-<div align="center">
-
-| Backend & APIs | Frontend & Mobile | AI & Data | Infrastructure |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi" alt="C#, .NET, Python and FastAPI" /> | <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,dart" alt="React, TypeScript, JavaScript, Flutter and Dart" /> | <img src="https://skillicons.dev/icons?i=pytorch,postgres" alt="PyTorch and PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Docker, Git, GitHub and VS Code" /> |
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=flat-square" alt="Vector search" />
-  <img src="https://img.shields.io/badge/REST_APIs-0891B2?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-111827?style=flat-square" alt="Clean Architecture" />
-</p>
-
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Medical AI Chatbot</h3>
-      <p align="center">
-        <a href="https://github.com/senolerdemm/Medikalchatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senolerdemm&repo=Medikalchatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Medical AI Chatbot repository" />
-        </a>
-      </p>
-      <p>A medical-domain conversational system built with FastAPI, PostgreSQL, semantic retrieval, sentence transformers, FAISS, and ChromaDB.</p>
-      <p><strong>Python · FastAPI · PostgreSQL · NLP · Vector Search</strong></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Ankara Invest Map</h3>
-      <p align="center">
-        <a href="https://github.com/senolerdemm/AnkaraInvestMap">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senolerdemm&repo=AnkaraInvestMap&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ankara Invest Map repository" />
-        </a>
-      </p>
-      <p>An interactive investment-analysis platform combining regional data, maps, dashboards, and a modern full-stack architecture.</p>
-      <p><strong>.NET 8 · React · TypeScript · Leaflet · ECharts</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Book API</h3>
-      <p align="center">
-        <a href="https://github.com/senolerdemm/BookApi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senolerdemm&repo=BookApi&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Book API repository" />
-        </a>
-      </p>
-      <p>A layered ASP.NET Core API featuring JWT authentication, role-based authorization, PostgreSQL, logging, and clean architecture patterns.</p>
-      <p><strong>ASP.NET Core · EF Core · JWT · PostgreSQL</strong></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">YKS Quest</h3>
-      <p align="center">
-        <a href="https://github.com/senolerdemm/YksQuest">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=senolerdemm&repo=YksQuest&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="YKS Quest repository" />
-        </a>
-      </p>
-      <p>A gamified exam-preparation app with subject-based challenges, streaks, XP, ranks, timers, and answer explanations.</p>
-      <p><strong>Flutter · Dart · Mobile UI · Gamification</strong></p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>More projects worth exploring</strong></summary>
-  <br />
-
-  - [FarmingERP](https://github.com/senolerdemm/FarmingERP) — an ERP-oriented product for agricultural and livestock operations
-  - [BarberAppointmentSystem](https://github.com/senolerdemm/BarberAppointmentSystem) — a complete appointment-management application
-  - [Credit Card Fraud Detection](https://github.com/senolerdemm/Credit-Card-Fraud-Detection) — a machine-learning exploration of fraud detection
-  - [Design Patterns](https://github.com/senolerdemm/DesignPatterns) — practical software design-pattern examples
-</details>
-
-## GitHub analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=senolerdemm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Şenol's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senolerdemm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Şenol's most used languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senolerdemm&theme=tokyonight" alt="Şenol's contribution graph" />
-</div>
-
-## Let's build something
-
-I enjoy collaborating on practical products involving **AI**, **backend engineering**, **data-rich web applications**, and **mobile experiences**. Explore my repositories, open an issue, or reach out through GitHub.
-
-<div align="center">
-  <a href="https://github.com/senolerdemm?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
-  </a>
-  <a href="https://github.com/senolerdemm">
-    <img src="https://img.shields.io/badge/Connect_on_GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Şenol Erdem — Software Developer" />
 </div>
 
 <br />
 
-<div align="center">
-  <sub>Designed and built with curiosity, clean code, and a little too much coffee.</sub>
-</div>
+<p align="center">
+  <a href="https://github.com/senolerdemm?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-7C3AED?style=for-the-badge&labelColor=111827" alt="Focus: AI + Full-Stack" />
+  <img src="https://img.shields.io/badge/Building_from-T%C3%BCrkiye-0891B2?style=for-the-badge&labelColor=111827" alt="Building from Türkiye" />
+</p>
 
-<!-- profile-readme-refresh: 2026-06-19 -->
+<h2 align="center">I build practical software with product taste.</h2>
+
+<p align="center">
+  I like projects where the frontend feels usable, the backend is clean, and the data/AI layer actually solves a problem.
+  My strongest lane right now is <b>AI-assisted products, .NET/Python APIs, React dashboards, and Flutter apps</b>.
+</p>
+
+---
+
+## Signature projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Medikalchatbot</h3>
+      <p>Medical-domain AI assistant with retrieval, semantic search and persistent backend storage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql" />
+        <img src="https://img.shields.io/badge/FAISS-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/ChromaDB-0891B2?style=flat-square" />
+      </p>
+      <a href="https://github.com/senolerdemm/Medikalchatbot">Open repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ AnkaraInvestMap</h3>
+      <p>Interactive investment analytics platform with maps, regional datasets, charts and a full-stack architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet" />
+        <img src="https://img.shields.io/badge/Leaflet-0891B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data%20Viz-7C3AED?style=flat-square" />
+      </p>
+      <a href="https://github.com/senolerdemm/AnkaraInvestMap">Open repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 FarmingERP</h3>
+      <p>ERP-style management system for agricultural and livestock operations with a domain-focused backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp" />
+        <img src="https://img.shields.io/badge/ERP-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain%20Modeling-0891B2?style=flat-square" />
+      </p>
+      <a href="https://github.com/senolerdemm/FarmingERP">Open repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 BookApi</h3>
+      <p>Clean Architecture API with authentication, authorization, PostgreSQL, DTO mapping and layered services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-111827?style=flat-square&logo=dotnet" />
+        <img src="https://img.shields.io/badge/EF%20Core-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0891B2?style=flat-square&logo=postgresql" />
+      </p>
+      <a href="https://github.com/senolerdemm/BookApi">Open repository →</a>
+    </td>
+  </tr>
+</table>
+
+## More builds worth opening
+
+| Project | Why it matters | Stack |
+|---|---|---|
+| [BarberAppointmentSystem](https://github.com/senolerdemm/BarberAppointmentSystem) | Appointment and scheduling flow for a real business use case | C# · Full-stack · Scheduling |
+| [YksQuest](https://github.com/senolerdemm/YksQuest) | Gamified study app with XP, streaks, ranks and timed questions | Flutter · Dart · Mobile UI |
+| [Credit-Card-Fraud-Detection](https://github.com/senolerdemm/Credit-Card-Fraud-Detection) | Machine-learning exploration around fraud detection | Jupyter · ML · Data analysis |
+
+---
+
+## Tech I use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=9CDCFE" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</p>
+
+## How I think about engineering
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Product first</h3>
+      <p>I care about what the user is trying to do, not just whether the code runs.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Clean backend</h3>
+      <p>APIs, auth, persistence and domain logic should stay understandable as the project grows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI with context</h3>
+      <p>I like AI features that are grounded in data, retrieval and clear user value.</p>
+    </td>
+  </tr>
+</table>
+
+## Current direction
+
+- Improving AI-assisted applications with retrieval and structured backend workflows
+- Building richer dashboards and map-based data products
+- Sharpening mobile UX with Flutter and clean state management
+- Turning small experiments into polished, explainable products
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/senolerdemm?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Built with clean code, curiosity, and the dangerous confidence of “just one more commit.”</sub>
+</p>
